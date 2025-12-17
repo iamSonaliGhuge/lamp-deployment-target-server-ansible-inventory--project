@@ -44,7 +44,7 @@ ansible-playbook lamp_on_target.yml -i inventory.ini
 
 After successful execution, access the server using the public IP in a browser:
 
-http://<server-public-ip>
+### http:// server-public-ip
 
 ### 📸 Screenshots
 
